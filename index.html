@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alura Geek</title>
+    <link rel="stylesheet" href="/Styles/reset.css">
+    <link rel="stylesheet" href="/Styles/style.css">
+    <link rel="stylesheet" href="/Styles/responsive.css">
+    <link rel="icon" href="/IMG/favicon.png" type="imagen/png">
+    <script defer src="/js/controllers/main.js" type="module"></script>
+</head>
+<body>
+    <header>
+        <img class="logo" src="IMG/logo.png" alt="Logo">       
+    </header>
+
+    <main class="main">
+        <section>
+            <h1 class="encabezado">Mis Productos:</h1>
+            <div data-product class="cards-container" >
+            </div>
+        </section>
+
+        <form class="formulario" data-form>
+            <h1>AGREGAR PRODUCTO:</h1>
+            <input type="text" class="input" placeholder="nombre..." data-nombre>
+            <input type="text" class="input" placeholder="precio..." data-precio>
+            <input type="text" class="input" placeholder="imagen..." data-imagen>
+            
+            <div class="botones-container">
+                <button type="submit" class="botones">Enviar</button>
+                <button type="submit" class="botones limpiar">Limpiar</button>
+            </div>
+        </form>
+    </main>
+
+    <footer>
+        <img src="IMG/logo.png" alt="Logo">
+        <p class="autor">DESARROLLADO POR ALWIN HUAMAN</p>
+        <p class="copy">&COPY ALURA LATAM - 2024</p>
+    </footer>
+    <!-- <script type="module" src="/js/controllers/main.js"></script> -->
+</body>
+</html>

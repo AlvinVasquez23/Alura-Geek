@@ -1,0 +1,37 @@
+@media (max-width: 480px){
+    body{
+        width: 100%;
+    }
+
+    .header{
+        width: auto;
+    }
+
+    main {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .formulario{
+        width: auto;
+    }
+
+    .input{
+        align-self: auto;
+    }
+
+    .cards-container{
+        display: flex;
+        padding: 1em;
+        width: 95%;
+        gap: 10px;
+        
+    }
+    section{
+        padding: 1em;
+
+
+    }
+
+
+}

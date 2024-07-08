@@ -1,0 +1,52 @@
+{
+  "productos": [
+    {
+      "id": "2",
+      "nombre": "Axl Rose",
+      "precio": "80.00",
+      "imagen": "https://i.pinimg.com/236x/79/bf/3f/79bf3f8d4590795045a68d2d3d484f4e.jpg"
+    },
+    {
+      "id": "3",
+      "nombre": "Leono",
+      "precio": "50.00",
+      "imagen": "https://i.pinimg.com/236x/d0/68/f0/d068f042d450ee7fa6b3493601f2db57.jpg"
+    },
+    {
+      "id": "4",
+      "nombre": "Popeye",
+      "precio": "50.00",
+      "imagen": "https://i.pinimg.com/236x/a5/2f/56/a52f56d64277fd8ac693a0622c8d40f3.jpg"
+    },
+    {
+      "id": "5",
+      "nombre": "Saul Goodman",
+      "precio": "120.00",
+      "imagen": "https://i.pinimg.com/564x/e6/7e/19/e67e19dedd39496769d095200305f112.jpg"
+    },
+    {
+      "id": "6",
+      "nombre": "Sara Connor",
+      "precio": "100.00",
+      "imagen": "https://i.pinimg.com/564x/33/31/1b/33311bbb04d2daa2aa27fa819db0d55e.jpg"
+    },
+    {
+      "id": "7",
+      "nombre": "Bruce Banner",
+      "precio": "160.00",
+      "imagen": "https://i.pinimg.com/564x/71/07/a8/7107a8d65ea2028918fdcdeacf57a826.jpg"
+    },
+    {
+      "id": "9",
+      "nombre": "Tony Montana",
+      "precio": "150.00",
+      "imagen": "https://i.pinimg.com/564x/42/c2/4f/42c24f17e75a557e411e319556307487.jpg"
+    },
+    {
+      "id": "44f5",
+      "nombre": "Mario y Yoshi",
+      "precio": "180.00",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_655275-MPE54522400934_032023-O.webp"
+    }
+  ]
+}
