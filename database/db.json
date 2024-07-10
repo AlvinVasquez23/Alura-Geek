@@ -41,12 +41,6 @@
       "nombre": "Tony Montana",
       "precio": "150.00",
       "imagen": "https://i.pinimg.com/564x/42/c2/4f/42c24f17e75a557e411e319556307487.jpg"
-    },
-    {
-      "id": "44f5",
-      "nombre": "Mario y Yoshi",
-      "precio": "180.00",
-      "imagen": "https://http2.mlstatic.com/D_NQ_NP_655275-MPE54522400934_032023-O.webp"
     }
   ]
 }
